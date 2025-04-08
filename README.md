@@ -8,7 +8,8 @@ Hi, I’m David @belmondc
 My mission statement:
 - Applying computing technology to improve human health by developing tools that improve the patient experience, assist physicians make decisions based on current evidence and best practices, advance biomedical discovery, and educate future health leaders.
 
-Fun fact: I enjoy cooking, traveling, sci-fi/fantasy movies, and stories with interesting characters.
+Fun fact: 
+- I enjoy cooking, traveling, sci-fi/fantasy movies, and stories with interesting characters.
 
 How to reach me:
 - dbelmont@umich.edu
